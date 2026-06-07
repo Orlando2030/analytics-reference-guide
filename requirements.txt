@@ -9,3 +9,11 @@ statsmodels
 pingouin
 plotly
 factor-analyzer
+statstests
+scipy
+Pillow
+networkx
+imageio
+pygame
+requests
+ipynb
