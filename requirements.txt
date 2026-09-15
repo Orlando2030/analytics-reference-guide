@@ -17,3 +17,5 @@ imageio
 pygame
 requests
 ipynb
+openpyxl
+xgboost
